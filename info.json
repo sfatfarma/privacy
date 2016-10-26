@@ -1,0 +1,20 @@
+{
+    "name" : "Hydra Privacy Policy and Terms of Service",
+    "slug" : "hydra-privacy-policy-and-terms-of-service",
+    "homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "download_url" : "https://rawgit.com/sfatfarma/privacy/master/hydra-privacy-policy-and-terms-of-service.zip",
+    
+    "version" : "1.0",
+    "requires" : "3.0",
+    "tested" : "4.6",
+    "last_updated" : "2016-10-10",
+    
+    "author" : "kisded",
+    "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    
+    "sections" : 
+    {
+        "description" : "<p>Hydra - Makes life easier by automatically generating mandatory 'Privacy Policy' and 'Terms of Service' pages for your website!</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2016-10-10</strong> <ul> <li>First version released!</li> </ul>"
+    }
+}
