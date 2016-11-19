@@ -4,7 +4,7 @@
     "homepage" : "https://codecanyon.net/user/kisded/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/privacy/master/legalize-privacy-policy-and-terms-of-service.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "3.0",
     "tested" : "4.6",
     "last_updated" : "2016-10-10",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>Legalize! - Makes life easier by automatically generating mandatory 'Privacy Policy' and 'Terms of Service' pages for your website!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-10-30</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-10-30</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-20</strong> <ul> <li>New feature added - <b>EU cookie consent popup</b>! Check it out!</li><li>Fixed some minor issues</li> </ul>"
     }
 }
