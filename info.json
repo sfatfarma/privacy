@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>Legalize! - Makes life easier by automatically generating mandatory 'Privacy Policy' and 'Terms of Service' pages for your website!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-10-30</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-20</strong> <ul> <li>New feature added - <b>EU cookie consent popup</b>! Check it out!</li><li>Fixed some minor issues</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-10-30</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-20</strong> <ul> <li>New feature added - <b>EU cookie consent popup</b>! Check it out!</li><li>Fixed some minor issues</li> </ul><br/><strong>Version 1.2 Release Date 2016-12-2</strong> <ul> <li>New feature added - <b>German translation for Privacy Policy and Terms of Service Pages</b>!</li><li>Added the ability to add custom text to the Privacy Policy or the Terms of Service pages</li><li>Fixed some minor issues</li> </ul>"
     }
 }
