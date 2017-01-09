@@ -1,20 +1,20 @@
 {
     "name" : "Legalize! Privacy Policy and Terms of Service",
     "slug" : "legalize-privacy-policy-and-terms-of-service",
-    "homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "homepage" : "https://codecanyon.net/user/CodeRevolution/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/privacy/master/legalize-privacy-policy-and-terms-of-service.zip",
     
-    "version" : "1.2",
+    "version" : "1.3",
     "requires" : "3.0",
     "tested" : "4.7",
-    "last_updated" : "2016-12-2",
+    "last_updated" : "2017-01-10",
     
-    "author" : "kisded",
-    "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "author" : "CodeRevolution",
+    "author_homepage" : "https://codecanyon.net/user/CodeRevolution/portfolio",
     
     "sections" : 
     {
         "description" : "<p>Legalize! - Makes life easier by automatically generating mandatory 'Privacy Policy' and 'Terms of Service' pages for your website!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-10-30</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-20</strong> <ul> <li>New feature added - <b>EU cookie consent popup</b>! Check it out!</li><li>Fixed some minor issues</li> </ul><br/><strong>Version 1.2 Release Date 2016-12-2</strong> <ul> <li>New feature added - <b>German translation for Privacy Policy and Terms of Service Pages</b>!</li><li>Added the ability to add custom text to the Privacy Policy or the Terms of Service pages</li><li>Fixed some minor issues</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-10-30</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-20</strong> <ul> <li>New feature added - <b>EU cookie consent popup</b>! Check it out!</li><li>Fixed some minor issues</li> </ul><br/><strong>Version 1.2 Release Date 2016-12-2</strong> <ul> <li>New feature added - <b>German translation for Privacy Policy and Terms of Service Pages</b>!</li><li>Added the ability to add custom text to the Privacy Policy or the Terms of Service pages</li><li>Fixed some minor issues</li> </ul><strong>Version 1.3 Release Date 2017-01-10</strong> <ul> <li>New feature added - <b>Option to add a 'I accept this website's Terms of Service' checkbox to login and register forms</b>!</li><li>Fixed some minor issues</li></ul>"
     }
 }
